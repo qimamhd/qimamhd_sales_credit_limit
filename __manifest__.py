@@ -21,9 +21,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'security/security.xml',
-        'views/res_config_setting.xml',
-        'views/partner.xml',
+    
 	#'wizards/recap.xml',
     ],
     # only loaded in demonstration mode

@@ -1,4 +1,2 @@
 # -*- coding: utf-8 -*-
-from . import res_config
-from . import partner
-from . import account_move
+from . import sale_order
